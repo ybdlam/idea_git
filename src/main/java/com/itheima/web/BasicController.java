@@ -7,5 +7,6 @@ public class BasicController {
         System.out.println("right");
         System.out.println("left");
         System.out.println("aaaaa");
+        System.out.println("bbbbb");
     }
 }
